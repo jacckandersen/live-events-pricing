@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / env
+.env
+*.env
+
+# Data pulls & enrichment outputs (regenerated from the APIs; not committed)
+events_raw.csv
+artists.txt
+artists_priced.txt
+artist_popularity.csv
+opportunity_matrix.csv
+*.tmp
+
+# Kept on purpose: enrichment/metro_population.csv (small reference data)
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.orig
