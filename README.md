@@ -1,6 +1,6 @@
 # Live Events: Market Segmentation \& Price-Positioning Analysis
 
-> \*\*Same product, double the price: Jazz tickets sell for a median $38 in New York but $19 in Los Angeles — one signal in a market-opportunity map that tells a live-events promoter where to expand, defend, and pull back next quarter.\*\*
+> \*\*Same product, double the price: Jazz tickets sell for a median $38 in New York but $19 in Los Angeles. One signal in a market-opportunity map that tells a live-events promoter where to expand, defend, and pull back next quarter.\*\*
 
 A commercial analytics project built on **live data pulled from the Ticketmaster Discovery API**, enriched with metro population data, and analyzed in PostgreSQL. It segments US live-events markets by supply saturation and price position, then fuses both into a single prioritization matrix.
 
